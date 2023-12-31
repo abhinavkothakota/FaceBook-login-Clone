@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+
+}
+body{
+    width: 100%;
+    background-color: #f0f2f5;
+    overflow: hidden;
+    font-family: 'Open Sans', sans-serif;
+
+}
+form{
+    background-color: #fff;
+    position: absolute;
+    width:320px;
+    height: 270px;
+    padding: 25px 25px 50px 25px;
+    margin: 6vh 950px ;
+    border-radius: 5px;
+    box-shadow: 5px 5px 6px -7px; 
+
+}
+input[type="text"],[type="password"]{
+    width: 100%;
+    padding: 14px 16px;
+    box-sizing: border-box;
+    outline: none;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    margin: 5px 0;
+    font-size: 17px;
+}
+button{
+    border: none;
+    background-color:#316FF6 ;
+    color: white;
+    margin: auto;
+    display: block;
+    width: 300px;
+    border:1.5px;
+    padding:10px 0;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top:15px ;
+    font-size: 15px;
+
+
+}
+.fpwd{
+    display: block;
+    color: #1877f2;
+    font-weight: 700;
+    width: 200px;
+    margin: auto;
+    padding-left: 50px;
+    font-size: 15px;
+    
+}
+.line{
+    border-top: 1px solid #222;
+    opacity: 0.2;
+    padding-bottom: 12px;
+}
+.bnt2{
+    width: 180px;
+    background-color: rgb(36, 164, 29);
+    font-size: 15px;
+    text-align: center;
+    margin-top: -1.5vh;
+    padding: 13px 13px 13px 13px;
+
+}
+.sub-link h3{
+   
+    width: 2750px ;
+    position: relative;
+    color: black;
+    padding: 185px 990px;
+    font-size: 14px;
+    font-weight: 600;
+    
+
+}
+.sub-link h3 a{
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+}
+.fcontainer{
+    width: 450px;
+    margin-top: 30vh;
+    margin-left: 300px;
+    
+
+
+}
+.fcontainer img{
+    height: 106px;
+    margin: -28px;
+    padding-top: 100px;
+    padding-bottom: 19px;
+}
+.f-quote{
+    font-size: 28px;
+    font-weight: 500;
+    color: #333;
+   
+}
+
+.Acontainer{
+    margin: -20vh;
+    margin-left: 60px;
+}
